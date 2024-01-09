@@ -1,6 +1,7 @@
 # pythonapplication
 
 Python Calculation Scripts
+
 This repository contains a collection of Python scripts for various mathematical and scientific calculations. Each file focuses on a specific mathematical concept and performs relevant calculations.
 
 File List
@@ -104,6 +105,9 @@ Representation in Base-10 (49_on_tabaninda_gosterim.py): Represents a number in 
 Largest Even Number (50_en_buyuk_cift.py): Finds the largest even number among given numbers.
 
 Nutrient Content Calculation (51_besin_kati.py): Performs nutrient content calculations.
+
 Inverse of an Integer (52_tam_sayinin_tersi.py): Calculates the inverse of an integer.
+
 Digit Division (53_bolum_basamak.py): Calculates the digit divisions of a number.
+
 Digit Division 2 (54_bolum_basamak2.py): Calculates the digit divisions of a number using another method
